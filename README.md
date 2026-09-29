@@ -73,10 +73,7 @@ Academic project, Master's in Computer Science Engineering.
 <br>
 
 <div align="center">
-  
-----------------------
-> >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
-----------------------
+ 
 
 <details open disabled>
 <summary >👏 Thanks for the support </summary>
