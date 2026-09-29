@@ -1,21 +1,21 @@
-![football-match-tracker](https://socialify.git.ci/tomasreyes83/football-match-tracker/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
+![football-match-tracker](https://socialify.git.ci/danield36/football-match-tracker/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
 
  
 <p align="center">
-<a href="https://github.com/tomasreyes83/football-match-tracker">
+<a href="https://github.com/danield36/football-match-tracker">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> 
 </p>
 <div align="center">
   
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tomasreyes83&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/tomasreyes83/football-match-tracker)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danield36&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/danield36/football-match-tracker)
 
 
  <p align="center">
-<a href="https://github.com/tomasreyes83/football-match-tracker">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftomasreyes83%2Ffootball-match-tracker&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
+<a href="https://github.com/danield36/football-match-tracker">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdanield36%2Ffootball-match-tracker&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
 </p>
 
-<a href="https://github.com/tomasreyes83/football-match-tracker">
+<a href="https://github.com/danield36/football-match-tracker">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
   <a/>
 </a>
@@ -68,7 +68,7 @@ Academic project, Master's in Computer Science Engineering.
 
 - Open it on STS IDE after instaling it, Maven will build the necessary tools, use `POSTMAN` for testing.
 
-- Contact me in [LinkedIn](https://www.linkedin.com/in/tomasreyes83) for questions. 
+- Contact me in [LinkedIn](https://www.linkedin.com/in/danield36) for questions. 
 
 <br>
 
@@ -86,7 +86,7 @@ Academic project, Master's in Computer Science Engineering.
 
 <div align="center">
 
-[![Stargazers repo roster for @tomasreyes83/football-match-tracker](http://reporoster.com/stars/dark/tomasreyes83/football-match-tracker)](https://github.com/tomasreyes83/football-match-tracker/stargazers)
+[![Stargazers repo roster for @danield36/football-match-tracker](http://reporoster.com/stars/dark/danield36/football-match-tracker)](https://github.com/danield36/football-match-tracker/stargazers)
 
 
 
@@ -96,14 +96,14 @@ Academic project, Master's in Computer Science Engineering.
 
 <div align="center" >
 
-[![Forkers repo roster for @tomasreyes83/football-match-tracker](http://reporoster.com/forks/dark/tomasreyes83/football-match-tracker)](https://github.com/tomasreyes83/football-match-tracker/network/members)
+[![Forkers repo roster for @danield36/football-match-tracker](http://reporoster.com/forks/dark/danield36/football-match-tracker)](https://github.com/danield36/football-match-tracker/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/tomasreyes83">
-  <img src = "https://contrib.rocks/image?repo=tomasreyes83/football-match-tracker"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://contrib.rocks/image?repo=danield36/football-match-tracker"/>
 </a>
 
 
@@ -111,27 +111,27 @@ Academic project, Master's in Computer Science Engineering.
 
 <div align="center">
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/tomasreyes83/football-match-tracker?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/danield36/football-match-tracker?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/tomasreyes83/football-match-tracker?style=social)
+![GitHub License](https://img.shields.io/github/license/danield36/football-match-tracker?style=social)
 
-<a href="https://www.buymeacoffee.com/tomasreyes83"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=tomasreyes83&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/danield36"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=danield36&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 </div>
 
-<a href = "https://github.com/tomasreyes83">
-  <img src = "https://github.com/tomasreyes83/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/tomasreyes83">
-  <img src = "https://github.com/tomasreyes83/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/tomasreyes83">
-  <img src = "https://github.com/tomasreyes83/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
